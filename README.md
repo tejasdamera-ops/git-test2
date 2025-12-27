@@ -2,5 +2,6 @@
 a test to learn git
 
 
- ``` console.log("test") ```
+ ``` js 
+  console.log("test");
 
